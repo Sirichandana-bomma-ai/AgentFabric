@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+duckduckgo-search==0.8
+newspaper3k
+lxml[html_clean]
+python-dotenv
