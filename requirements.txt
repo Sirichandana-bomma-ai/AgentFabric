@@ -1,9 +1,9 @@
 streamlit
 langchain
-langchain_community
+langchain-community
 transformers
 torch
-duckduckgo-search==0.8
+duckduckgo-search
 newspaper3k
 lxml[html_clean]
 python-dotenv
