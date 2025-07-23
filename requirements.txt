@@ -1,4 +1,6 @@
 streamlit
+langchain
+langchain_community
 transformers
 torch
 duckduckgo-search==0.8
